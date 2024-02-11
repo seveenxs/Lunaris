@@ -1,8 +1,8 @@
 {
   "name": "lunaris",
   "version": "1.0.0",
-  "description": "c",
-  "author": "neveesx",
+  "description": "lunaris is a library that provides simple functions, making it easier for Discord bot development.",
+  "author": "neveesx (https://github.com/neveesx)",
   "license": "MIT",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
