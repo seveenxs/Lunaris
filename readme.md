@@ -100,7 +100,7 @@ createRow(
 ```
 
 # 💖 Contribution
-Your contributions are highly valued! Feel free to enhance this project by opening an [issue](https://www.github.com/neveesx) to report any problems or submitting a [pull request](https://www.github.com/neveesx) with your proposed changes.
+Your contributions are highly valued! Feel free to enhance this project by opening an [issue](https://github.com/neveesx/Lunaris/issues) to report any problems or submitting a [pull request](https://github.com/neveesx/Lunaris/pulls) with your proposed changes.
 
 # 📗 License
 This project is licensed under the [MIT License](LICENSE).
