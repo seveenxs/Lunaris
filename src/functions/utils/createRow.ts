@@ -1,6 +1,5 @@
 import { ActionRowBuilder, ButtonBuilder, ChannelSelectMenuBuilder, RoleSelectMenuBuilder, StringSelectMenuBuilder, UserSelectMenuBuilder } from "discord.js";
 import Lunaris from "../../private/Lunaris";
-import createLinkButton from "../buttons/createLinkButton";
 
 type AnyComponentBuilder = 
 ButtonBuilder | StringSelectMenuBuilder | ChannelSelectMenuBuilder | RoleSelectMenuBuilder | UserSelectMenuBuilder;
